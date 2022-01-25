@@ -1,3 +1,11 @@
 comando 1: dotnet new mvc -au None -o pruebaApp
     el termino -o es para asignar un nombre a la app 
     el termino -au es para agregar autenticacion.
+
+comando 2: dotnet new console -o getrequest
+comando 3: dotnet add package NewtonSoft.JSON ->Este comando permite añadir el paquete o framework NewtonSoft.JSON
+comando 4: dotnet tool install --global dotnet-ef : comando para la instalcion del paquete entity framework
+comando 5: dotnet watch run : permite correr la app sin necesidad de reiniciar cuando se haga cambios, similar a nodemoon en nodejs
+comando 6: dotnet add package Microsoft.EntityFrameworkCore.SqlServer --version 5.0.5
+comando 7: dotnet add package Microsoft.EntityFrameworkCore.Tools --version 5.0.5
+comando 8: dotnet add package Microsoft.EntityFrameworkCore --version 5.0.5

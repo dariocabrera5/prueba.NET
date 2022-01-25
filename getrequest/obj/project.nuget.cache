@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IIXVGSOqobdhxUpsN7qwf2Le++5obcj8pK/FjUwA87FYF3COvpnWiv6pb0X271v7h7Yg6axIClKWz/deqrH1rQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KATERINE CABRERA\\Desktop\\desarrollo_net\\pruebascon.NET\\getrequest\\getrequest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KATERINE CABRERA\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
