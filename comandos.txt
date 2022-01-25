@@ -1,0 +1,3 @@
+comando 1: dotnet new mvc -au None -o pruebaApp
+    el termino -o es para asignar un nombre a la app 
+    el termino -au es para agregar autenticacion.
